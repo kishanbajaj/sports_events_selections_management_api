@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+# IDE/Editor files
+.vscode/**
+
+# Environment variables
+.env
