@@ -11,6 +11,7 @@ cd ../
 
 ### Build and start backend
 ```shell
+chmod +x backend/run.sh
 docker-compose up -d --build
 ```
 
